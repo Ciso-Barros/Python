@@ -95,7 +95,6 @@ while True:
         elif dado_sorteado[num_faces] == "T":
             print('Você levou um TIRO!')
             tiros += 1
-
         else:
             print('Você tirou um PASSO! Sua vítima escapou!')
             passos += 1
